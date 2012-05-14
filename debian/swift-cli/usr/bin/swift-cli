@@ -56,6 +56,7 @@ def utf8_str(str):
     return str
 
 # handle windows cp65001
+# other cp handling is required
 import codecs
 codecs.register(lambda name: name == 'cp65001' and codecs.lookup('utf8') or None)
 

@@ -23,7 +23,7 @@ buildrpm:
 	$(PYTHON) setup.py bdist_rpm --dist-dir=$(PACKAGEDIR)
 
 buildexe:
-	$(PYTHON) setup.py bdist_wininst --dist-dir=$(PACKAGEDIR)
+	$(PYTHON) setup.py bdist_wininst --plat-name=win32 --dist-dir=$(PACKAGEDIR)
 
 builddeb:
 	# build the source package in the parent directory
