@@ -3,7 +3,7 @@ DESTDIR=/
 BUILDDIR=$(CURRDIR)/debian/swift-cli
 PROJECT=swift-cli
 VERSION=1.4.2-1
-PACKAGEDIR=..
+PACKAGEDIR=packages
 
 all:
 	@echo "make source - Create source package"
