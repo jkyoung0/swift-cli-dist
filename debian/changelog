@@ -1,5 +1,5 @@
-swift-cli (1.4.2) UNRELEASED; urgency=low
+swift-cli (1.4.2-1) unstable; urgency=low
 
   * Initial release. (Closes: #XXXXXX)
 
- -- jkyoung <jkyoung0@gmail.com>  Fri, 11 May 2012 23:29:10 +0900
+ -- jkyoung <jkyoung0@gmail.com>  Mon, 14 May 2012 10:33:06 +0900
