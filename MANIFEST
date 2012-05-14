@@ -1,2 +1,2 @@
 setup.py
-src/swift-cli.py
+bin/swift-cli
