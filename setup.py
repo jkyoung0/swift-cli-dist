@@ -10,5 +10,5 @@ setup (name = 'swift-cli',
        url = 'https://github.com/jkyoung0/swift-cli-dist',
        license = 'Apache License, Version 2.0',
        platforms = 'pure python, python v2.6 or v2.7 based',
-       scripts=['bin/swift-cli'],
+       scripts=['bin/swift-cli', 'bin/swift-cli.py'],
 )

@@ -2,7 +2,7 @@ Package: swift-cli
 Version: 1.4.2-1
 Architecture: all
 Maintainer: Kiyoung Jung (jkyoung)
-Installed-Size: 112
+Installed-Size: 200
 Depends: python (>= 2.6), python-support (>= 0.90.0)
 Section: shells
 Priority: optional

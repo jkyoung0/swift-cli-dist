@@ -1,4 +1,5 @@
 d9814d8eeea327516687e7d99c97db06  usr/bin/swift-cli
+d9814d8eeea327516687e7d99c97db06  usr/bin/swift-cli.py
 57c4c21c2ea89ca6a53bd0890edc88c2  usr/share/doc/swift-cli/copyright
 01f7ebe5035798d0ff372d82d780e4a7  usr/share/doc/swift-cli/changelog.Debian.gz
 77034d8249b3418747977b570dd94ecf  usr/share/pyshared/swift_cli-1.4.2_1-py2.6.egg-info
